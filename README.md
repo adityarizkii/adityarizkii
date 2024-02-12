@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Adit!
 👩🏻‍💻 A student with a curiosity to keep learning about web development<br/>
 👩🏻‍🎓 Studied Computer Science at the University of Mataram, Indonesia<br/>
-💭 Currently learning about data analytics and [dataviz](https://pudding.cool/2018/08/pockets/)!<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
 ![](https://github-readme-stats.vercel.app/api?username=adityarizkii&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
