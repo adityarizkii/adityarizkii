@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Adit!
-- 👩🏻‍💻 A student with a curiosity to keep learning about web development<br/>
+- 👩🏻‍💻 A student with a curiosity to explore about web development<br/>
 - 👩🏻‍🎓 Studied Computer Science at the University of Mataram, Indonesia<br/>
 
 <!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
